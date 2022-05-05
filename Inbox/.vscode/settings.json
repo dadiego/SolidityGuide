@@ -1,3 +1,4 @@
 {
-    "jslint.enable": true
+    "jslint.enable": true,
+    "jshint.enable": false
 }
